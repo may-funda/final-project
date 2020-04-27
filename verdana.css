@@ -1,0 +1,125 @@
+.title {
+    color: black;
+    margin-top: 40px;
+    font-size: 4em;
+    max-width: 100%;
+    margin-left: 0px;
+    text-shadow: 2px 4px 10px grey;
+}
+
+
+.subtitle2 a {
+    font-variant: small-caps;
+    margin-top: -45px;
+    font-size: 1em;
+    margin-bottom: 50px;
+    text-decoration: none;
+    color: blueviolet;
+    padding: 15px;
+}
+
+
+body {
+    /* kfjdkfjgkdfjg */
+    text-align: center;
+    font-size: 1em;
+    font-family: verdana, sans-serif;
+    font-style: normal;
+    margin: 0 auto;
+    max-width: 900px;
+    line-height: 1;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #40cbae;
+}
+
+
+.blockquote {
+    font-size: 1.5em;
+    font-style: italic;
+    min-height: 3em;
+    padding-top: 50px;
+}
+
+
+p {
+    font-style: normal;
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+
+.bold {
+    font-weight: bold;
+    font-size: 3em;
+    line-height: 0.8em;
+    margin: 50px 0 50px 40%;
+    
+}
+
+
+.italic {
+    font-style: italic;
+}
+
+
+.margin40l {
+    margin-left: -20%;
+    font-size: 2em;
+    line-height: 0.2em;
+}
+
+
+.margin60l {
+    margin-left: -40px;
+    font-size: 6em;
+    line-height: 0.4em;
+}
+
+
+.margin80l {
+    margin-left: : -50px;
+    font-size: 5em;
+    line-height: 0.6em;
+}
+
+
+h2.subtitle2 {
+    display: inline-block;
+}
+
+
+textarea {
+    background-color: #40cbae;
+    margin: 50px 0;
+    font-family: verdana, sans-serif;
+    
+ 
+    
+}
+
+
+.backtotop a {
+    
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 1em;
+    line-height: 1em;
+    font-variant: small-caps;
+    margin-top: 50px;
+    margin-bottom: 50px; 
+   
+
+
+}
+
+
+.aboutdesigner {
+    margin-bottom: 50px;
+    
+}
+
+
+.aboutfont {
+   margin-top: 50px;
+}

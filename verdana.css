@@ -63,39 +63,8 @@ p {
 }
 
 
-.margin40l {
-    margin-left: -20%;
-    font-size: 2em;
-    line-height: 0.2em;
-}
-
-
-.margin60l {
-    margin-left: -40px;
-    font-size: 6em;
-    line-height: 0.4em;
-}
-
-
-.margin80l {
-    margin-left: : -50px;
-    font-size: 5em;
-    line-height: 0.6em;
-}
-
-
 h2.subtitle2 {
     display: inline-block;
-}
-
-
-textarea {
-    background-color: #40cbae;
-    margin: 50px 0;
-    font-family: verdana, sans-serif;
-    
- 
-    
 }
 
 
@@ -111,15 +80,4 @@ textarea {
    
 
 
-}
-
-
-.aboutdesigner {
-    margin-bottom: 50px;
-    
-}
-
-
-.aboutfont {
-   margin-top: 50px;
 }

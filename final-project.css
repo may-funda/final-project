@@ -1,9 +1,8 @@
 .title {
     color: black;
     margin-top: 40px;
-    font-size: 4em;
+    font-size: 6em;
     max-width: 100%;
-    margin-left: 0px;
     text-shadow: 2px 4px 10px grey;
 }
 
@@ -28,8 +27,6 @@ body {
     margin: 0 auto;
     max-width: 900px;
     line-height: 1;
-    padding-left: 10px;
-    padding-right: 10px;
     background-color: #40cbae;
 }
 

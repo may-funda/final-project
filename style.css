@@ -13,7 +13,7 @@ h1 {
     
 
 
-.heroimage { 
+.titleimage { 
     margin: 0 auto;
     display: block;
     max-width: 90%;
@@ -26,8 +26,6 @@ body {
     margin: 0 auto;
     max-width: 900px;
     line-height: 1.4;
-    padding-left: 10px;
-    padding-right: 10px;
     }
    
 blockquote {
@@ -35,14 +33,14 @@ blockquote {
     }
     
 .link {
-   text-align: left; 
+   
    font-size: 1em;
    margin-bottom: 40px;
      
     }
     
 .abouttheauthor {
-    text-align: left;
+ 
     font-style: oblique;
     margin-top: 40px;
     font-size: 1.5em;
@@ -51,12 +49,11 @@ blockquote {
 img.selfie {
     width: 13%; 
     float: left;
-    padding-right: 1em;
     margin-bottom: 40px;
     }
         
 @media screen and (max-width: 600px) {
-   .heroimage { 
+   .titleimage { 
     max-width: 100%;
     }
     

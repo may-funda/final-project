@@ -1,66 +1,117 @@
-    
-.title  {
-   margin-top: 40px;
-   font-size: 2.5em;
-    max-width: 100%;
-    }  
- 
-h1 {
-   text-align: center; 
-   font-size: 1em;
-   max-width: 100%; 
-    }    
-    
+    .title {
+        margin-top: 40px;
+        font-size: 2.5em;
+        max-width: 100%;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 1em;
+        max-width: 100%;
+    }
 
 
-.heroimage { 
-    margin: 0 auto;
-    display: block;
-    max-width: 100%;
-    
-    }
-    
-body {
-    background: oldlace;
-    font-family: sans-serif;
-    margin: 0 auto;
-    max-width: 100%;
-    line-height: 1.4;
-   
-    
-    }
-   
-blockquote {
-    font-size: 1em;    
-    }
-    
-.link {
-   text-align: left; 
-   font-size: 1em;
-   margin-bottom: 40px;
-     
-    }
-    
-.abouttheauthor {
-    text-align: left;
-    font-style: oblique;
-    margin-top: 40px;
-    font-size: 1.5em;
-    }
-    
 
-        
-@media screen and (max-width: 600px) {
-   .heroimage { 
-    max-width: 100%;
+    .heroimage {
+        margin: 0 auto;
+        display: block;
+        max-width: 100%;
+
     }
-    
+
+    .red {
+        margin: 0 auto;
+        display: block;
+        max-width: 100%;
+
+    }
+
+    .orange {
+        margin: 0 auto;
+        display: block;
+        max-width: 100%;
+
+    }
+
+    .yellow {
+        margin: 0 auto;
+        display: block;
+        max-width: 100%;
+
+    }
+
+    .green {
+        margin: 0 auto;
+        display: block;
+        max-width: 100%;
+
+    }
+
+    .blue {
+        margin: 0 auto;
+        display: block;
+        max-width: 100%;
+
+    }
+
+    .violet {
+        margin: 0 auto;
+        display: block;
+        max-width: 100%;
+
+    }
+
+
+    .purple {
+        margin: 0 auto;
+        display: block;
+        max-width: 100%;
+
+    }
+
+
     body {
-    max-width: 100%;       
+        background: oldlace;
+        font-family: sans-serif;
+        margin: 0 auto;
+        max-width: 100%;
+        line-height: 1.4;
+        padding-left: 10px;
+        padding-right: 10px;
+
     }
-       
-   
-    
-    
-    
-}
+
+    blockquote {
+        font-size: 1em;
+    }
+
+    .link {
+        text-align: left;
+        font-size: 1em;
+        margin-bottom: 40px;
+
+    }
+
+    .abouttheauthor {
+        text-align: left;
+        font-style: oblique;
+        margin-top: 40px;
+        font-size: 1.5em;
+    }
+
+
+
+    @media screen and (max-width: 600px) {
+        .heroimage {
+            max-width: 100%;
+        }
+
+        body {
+            max-width: 100%;
+        }
+
+
+
+
+
+    }

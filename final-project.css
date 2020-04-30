@@ -10,14 +10,38 @@
         max-width: 100%;
     }
 
+   body {
+        background: #000000;
+        font-family: sans-serif;
+        font: #eaeafc;
+        margin: 0 auto;
+        max-width: 100%;
+        line-height: 1.4;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-emphasis-color: azure;
+
+    }
 
 
-    .heroimage {
+    html {
+        color: #5c6669;
+    }
+
+
+.heroimage {
         margin: 0 auto;
         display: block;
         max-width: 100%;
 
     }
+
+
+ 
+
 
     .red {
         margin: 0 auto;
@@ -70,16 +94,8 @@
     }
 
 
-    body {
-        background: oldlace;
-        font-family: sans-serif;
-        margin: 0 auto;
-        max-width: 100%;
-        line-height: 1.4;
-        padding-left: 10px;
-        padding-right: 10px;
+   
 
-    }
 
     blockquote {
         font-size: 1em;
@@ -98,6 +114,18 @@
         margin-top: 40px;
         font-size: 1.5em;
     }
+
+
+h3 {
+        text-align: center;
+        font-size: 1em;
+        max-width: 100%;
+    }
+
+
+
+
+
 
 
 

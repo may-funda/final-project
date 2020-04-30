@@ -16,7 +16,7 @@ h1 {
 .heroimage { 
     margin: 0 auto;
     display: block;
-    max-width: 90%;
+    max-width: 100%;
     
     }
     
@@ -26,8 +26,8 @@ body {
     margin: 0 auto;
     max-width: 900px;
     line-height: 1.4;
-    padding-left: 10px;
-    padding-right: 10px;
+   
+    
     }
    
 blockquote {
@@ -48,12 +48,7 @@ blockquote {
     font-size: 1.5em;
     }
     
-img.selfie {
-    width: 13%; 
-    float: left;
-    padding-right: 1em;
-    margin-bottom: 40px;
-    }
+
         
 @media screen and (max-width: 600px) {
    .heroimage { 
@@ -64,13 +59,7 @@ img.selfie {
     max-width: 100%;       
     }
        
-    img.selfie {
-    max-width: 200px; 
-    float: none;
-    width: auto;
-    }
-    
-  
+   
     
     
     
